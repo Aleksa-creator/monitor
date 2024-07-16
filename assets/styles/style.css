@@ -144,6 +144,12 @@ main .main__about{
 	padding-bottom: 30px;
 }
 
+.card img{
+	width: 150px;
+	height: 150px;
+	border-radius: 50% ;
+}
+
 /* .line{
 	width: 100px;
 	height: 3px;
@@ -206,6 +212,11 @@ main .main__about{
 .services__cards h4{
 	margin-top: 20px;
 	margin-bottom: 15px;
+}
+
+.services__card img{
+	width: 100px;
+	height: 100px;
 }
 
 .main__clients{
